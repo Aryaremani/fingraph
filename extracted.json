@@ -1,0 +1,488 @@
+[
+ {
+  "chunk_id": "AAPL_10-Q_2026-05-01_49",
+  "ticker": "AAPL",
+  "text": "anufacture subassemblies for the Company\u2019s products and to perform final assembly and testing of finished products. The Company also obtains individual components for its products from a wide variety of individual suppliers. As of March 28, 2026, the Company had manufacturing purchase obligations of $44.6 billion, with $43.9 billion payable within 12 months. Other Purchase Obligations The Company\u2019s other purchase obligations primarily consist of noncancelable obligations related to supplier arrangements, licensed intellectual property and content, distribution rights, and the acquisition of capital assets related to product manufacturing. As of March 28, 2026, the Company had other purchase obligations of $30.4 billion, with $9.3 billion payable within 12 months. Deemed Repatriation Tax Payable During the first six months of 2026, the Company paid the remaining $8.8 billion balance of the deemed repatriation tax payable imposed by the U.S. Tax Cuts and Jobs Act of 2017. Capital Return ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "AAPL_10-Q_2026-07-31_49",
+  "ticker": "AAPL",
+  "text": "ns, other purchase obligations, and deemed repatriation tax payable. Manufacturing Purchase Obligations The Company utilizes several outsourcing partners to manufacture subassemblies for the Company\u2019s products and to perform final assembly and testing of finished products. The Company also obtains individual components for its products from a wide variety of individual suppliers. As of June 27, 2026, the Company had manufacturing purchase obligations of $57.0 billion, with $56.2 billion payable within 12 months. Other Purchase Obligations The Company\u2019s other purchase obligations primarily consist of noncancelable obligations related to supplier arrangements, licensed intellectual property and content, distribution rights, and the acquisition of capital assets related to product manufacturing. As of June 27, 2026, the Company had other purchase obligations of $29.3 billion, with $9.2 billion payable within 12 months. Deemed Repatriation Tax Payable During the first nine months of 2026, ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "AAPL_10-Q_2026-07-31_88",
+  "ticker": "AAPL",
+  "text": "5. Other Information Insider Trading Arrangements On May 5, 2026 , Jennifer Newstead , the Company\u2019s Senior Vice President and General Counsel , entered into a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale, subject to certain price limits, of up to 24,912 shares of common stock, as well as up to 90% of shares vesting between June 15, 2026 and March 15, 2027, pursuant to certain equity awards granted to Ms. Newstead, excluding any shares withheld by the Company to satisfy income tax withholding and remittance obligations. Ms. Newstead\u2019s plan will expire on May 6, 2027 , subject to early termination in accordance with the terms of the plan. On May 28, 2026 , Tim Cook , the Company\u2019s Chief Executive Officer , entered into a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale, subject to certain price limits,",
+  "entities": [
+   {
+    "name": "Jennifer Newstead",
+    "type": "Person"
+   },
+   {
+    "name": "Tim Cook",
+    "type": "Person"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_74",
+  "ticker": "MSFT",
+  "text": " of games, providing exclusive game content that gamers seek, the computational power and reliability of the devices used to access our content and services, and the ability to create new experiences. Search Advertising Our Search advertising business is designed to deliver relevant search, native, and display advertising to a global audience. Microsoft Copilot is a digital companion designed to inform, entertain, and inspire. Our Microsoft Edge browser and Bing search engine with Copilot are key tools to enable user acquisition and engagement, while our technology platform enables accelerated delivery of digital advertising solutions. In addition to first-party tools, we have several partnerships with companies through which we provide and monetize search offerings. Growth depends on our ability to attract new users, understand intent, and match intent with relevant content on advertising offerings. Competition Windows faces competition from various software products and from alternat",
+  "entities": [
+   {
+    "name": "Microsoft Copilot",
+    "type": "Person"
+   },
+   {
+    "name": "Microsoft Edge",
+    "type": "Person"
+   }
+  ],
+  "relations": [
+   {
+    "source": "Microsoft Copilot",
+    "relation": "CEO_OF",
+    "target": "Microsoft Corporation"
+   }
+  ]
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_87",
+  "ticker": "MSFT",
+  "text": "gulatory compliance, some of the programs and processes are tailored to meet specific regulatory obligations, such as with the creation of independent compliance functions required by the European Union (\u201cEU\u201d) Digital Markets Act and the EU Digital Services Act, which oversee, monitor, and assess the company\u2019s compliance with these acts. For a description of the risks we face related to regulatory matters, refer to Risk Factors (Part I, Item 1A of this Form 10-K). 11 PART I Item 1 INFORMATION ABOUT OUR EXECUTIV E OFFICERS Our executive officers as of July 29, 2026 were as follows: Mr. Nadella was appointed Chairman of the Board in June 2021 and Chief Executive Officer in February 2014. He served as Executive Vice President, Cloud and Enterprise from July 2013 until that time. From 2011 to 2013, Mr. Nadella served as President, Server and Tools. From 2009 to 2011, he was Senior Vice President, Online Services Division. From 2008 to 2009, he was Senior Vice President, Search, Portal, and",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_88",
+  "ticker": "MSFT",
+  "text": "Tools. From 2009 to 2011, he was Senior Vice President, Online Services Division. From 2008 to 2009, he was Senior Vice President, Search, Portal, and Advertising. Since joining Microsoft in 1992, Mr. Nadella\u2019s roles also included Vice President of the Business Division. Mr. Althoff was appointed Chief Executive Officer, Microsoft Commercial Business in October 2025. He previously served as Executive Vice President and Chief Commercial Officer since July 2021. He served as Executive Vice President, Worldwide Commercial Business from July 2017 until July 2021. Prior to that, Mr. Althoff served as the President of Microsoft North America. Mr. Althoff joined Microsoft in March 2013 as President of Microsoft North America. Mr. Althoff also serves on the Board of Directors of Ecolab Inc. and General Electric Company, operating as GE Aerospace. Ms. Coleman was appointed Executive Vice President and Chief Human Resources Officer in March 2025. She previously served as Corporate Vice President",
+  "entities": [
+   {
+    "name": "Microsoft Corporation",
+    "type": "Company"
+   },
+   {
+    "name": "Ecolab Inc.",
+    "type": "Company"
+   },
+   {
+    "name": "General Electric Company",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_89",
+  "ticker": "MSFT",
+  "text": " Ms. Coleman was appointed Executive Vice President and Chief Human Resources Officer in March 2025. She previously served as Corporate Vice President, Human Resources and Corporation Functions since January 2021. Prior to that, Ms. Coleman served as Vice President Human Resources and Corporate Functions since September 2020. Since joining Microsoft in 2009, Ms. Coleman has held various positions of increasing authority. Ms. Hood was appointed Executive Vice President and Chief Financial Officer in July 2013, subsequent to her appointment as Chief Financial Officer in May 2013. From 2010 to 2013, Ms. Hood was Chief Financial Officer of the Microsoft Business Division. Since joining Microsoft in 2002, Ms. Hood has also held finance-related positions in the Server and Tools Business and the corporate finance organization. Mr. Numoto was appointed Executive Vice President and Chief Marketing Officer in October 2023. He served as Executive Vice President and Commercial Chief Marketing Offi",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_90",
+  "ticker": "MSFT",
+  "text": "ointed Executive Vice President and Chief Marketing Officer in October 2023. He served as Executive Vice President and Commercial Chief Marketing Officer from March 2020. Mr. Numoto served as a Corporate Vice President, Cloud Marketing from January 2012. Prior to that, Mr. Numoto served as a Corporate Vice President for Office 365 Marketing from 2004, where he led the transformation from traditional on-premises packaged software to the introduction of Office 365. Since joining Microsoft in 1997, Mr. Numoto has held multiple roles in Windows Program Management and Office Marketing. Mr. Smith was appointed Vice Chair and President in September 2021. Prior to that, he served as President and Chief Legal Officer since September 2015. He served as Executive Vice President, General Counsel, and Secretary from 2011 to 2015, and served as Senior Vice President, General Counsel, and Secretary from 2001 to 2011. Mr. Smith was also named Chief Compliance Officer in 2002. Since joining Microsoft i",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_110",
+  "ticker": "MSFT",
+  "text": "compliance needs. \u2022 Making our suite of cloud-based and AI products and services platform-agnostic and maintaining the utility, compatibility, and performance of our cloud-based and AI products and services on the growing array of computing devices, including PCs, smartphones, tablets, gaming consoles, and other devices. Our success depends on our ability to execute effectively across product development, go-to-market, customer acquisition, and customer retention initiatives. Failure to do so could reduce adoption, market share, and revenue growth. If we are not effective in executing organizational and technical changes to increase efficiency and accelerate innovation, or if we fail to generate sufficient usage of our new products and services, the timing or magnitude of any revenue growth may not be in line with these costs. This could adversely affect our operations, financial condition, and results of operations. Our cloud-based and AI products and services may be misused by custom",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_111",
+  "ticker": "MSFT",
+  "text": "adversely affect our operations, financial condition, and results of operations. Our cloud-based and AI products and services may be misused by customers, users, or malicious actors for unintended, fraudulent, abusive, or unlawful purposes. Our efforts to detect, prevent, and mitigate such misuse may not be successful, which could result in reputational harm, regulatory scrutiny, service disruptions, or adverse impacts on our business, financial condition, and results of operations. 16 PART I Item 1A RISKS RELATING TO THE EVOLUTION OF OUR BUSINESS We make significant investments in products and services that may not achieve expected returns. We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including AI-based products and services. We also invest in the development and acquisition of a variety of hardware for productivity, communication, and entertainment, including PCs, tablets, and gaming device",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_112",
+  "ticker": "MSFT",
+  "text": "the development and acquisition of a variety of hardware for productivity, communication, and entertainment, including PCs, tablets, and gaming devices. Investments in new technology are speculative. Commercial success depends on many factors, including innovation, developer support, and effective distribution and marketing. If customers do not perceive our latest offerings as providing significant new functionality or other value, they may reduce their purchases of new software and hardware products or upgrades, unfavorably affecting revenue. We may not achieve significant revenue from new product, service, and distribution channel investments for several years, if at all. New products and services may not be profitable or may not achieve operating margins as high as we have experienced historically. We may not get engagement in certain features that drive post-sale monetization opportunities. Our data-handling practices across our products and services will continue to be under scrut",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_113",
+  "ticker": "MSFT",
+  "text": "features that drive post-sale monetization opportunities. Our data-handling practices across our products and services will continue to be under scrutiny. Perceptions of mismanagement, driven by regulatory activity or negative public reaction to our practices or product experiences, could negatively impact product and feature adoption. Developing new technologies is complex. It can require long development and testing periods. We could experience significant delays in new releases or significant problems in creating new products or services. These factors could adversely affect our business, financial condition, and results of operations. Acquisitions, joint ventures, and strategic alliances could have an adverse effect on our business. We expect to continue making acquisitions and entering into joint ventures and strategic alliances as part of our long-term business strategy. For example, in October 2023 we completed our acquisition of Activision Blizzard , Inc. Additionally, we have ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_114",
+  "ticker": "MSFT",
+  "text": "art of our long-term business strategy. For example, in October 2023 we completed our acquisition of Activision Blizzard , Inc. Additionally, we have a long-term strategic partnership with OpenAI. Acquisitions and other transactions and arrangements involve significant challenges and risks, including that they do not advance our business strategy, that we get an unsatisfactory return on our investment, that they raise new compliance-related obligations and challenges, that we have difficulty integrating and retaining new employees, business systems, and technology, that they distract management from our other businesses, or that announced transactions may not be completed. If an arrangement fails to adequately anticipate changing circumstances and interests of a party, it may result in early termination or renegotiation of the arrangement. We also have limited ability to control or influence third parties with whom we have arrangements, which may impact our ability to realize the antic",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_115",
+  "ticker": "MSFT",
+  "text": ". We also have limited ability to control or influence third parties with whom we have arrangements, which may impact our ability to realize the anticipated benefits. The success of these transactions and arrangements depend in part on our ability to leverage them to enhance our existing products and services or develop compelling new ones, as well as the acquired companies\u2019 ability to meet our policies and processes in areas such as data governance, privacy, digital safety, responsible AI, and cybersecurity. It may take longer than expected to realize the full economic benefits from these transactions and arrangements, such as increased revenue or enhanced efficiencies, or the benefits may ultimately be smaller than we expected, which could cause an impairment of goodwill or intangibles. We have recorded, and may in the future be required to record, a significant charge in our consolidated financial statements during the period in which any impairment of our goodwill or amortizable in",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_123",
+  "ticker": "MSFT",
+  "text": " disruptions of our services. Our internal environment continues to evolve. Often, we are early adopters of new devices and technologies. We embrace new ways of sharing data and communicating internally and with partners and customers using methods such as social networking and other consumer-oriented technologies. Increasing use of AI, including models, algorithms, copilots, and autonomous or semi-autonomous agents, in our internal or third-party systems may create new attack surfaces or methods for adversaries. Our business policies and internal security controls may not keep pace with emerging threats or the evolving regulatory landscape. Inadequate account security or organizational security practices, including those of companies we have acquired or those of the third parties we utilize, have resulted and may result in unauthorized access to our systems and data, including customer systems and data. For example, passwords may not be rotated and employee access may not be updated o",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_128",
+  "ticker": "MSFT",
+  "text": "lnerabilities that may make our products susceptible to cyberattacks as we increasingly incorporate open-source software into our products. Accordingly, our products have and may continue to contain vulnerabilities or undetected errors. Our customers operate complex systems with third-party hardware and software from multiple vendors that may include systems acquired over many years. They expect our products and services to support all these systems and products, including those that no longer incorporate the strongest current security advances or standards. As a result, we may not be able to discontinue support of our services for a product, service, standard, or feature solely because a more secure alternative is available. Failure to utilize the most current security advances and standards can increase our customers\u2019 vulnerability to attack. Further, the rapid evolution of AI technologies and use cases may outpace the development, deployment, and effectiveness of security products, ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_191",
+  "ticker": "MSFT",
+  "text": "ols, policies, and procedures to identify, manage, and mitigate cybersecurity threats. Annually, we assess our cybersecurity program\u2019s alignment with applicable industry standards. We also undertake integrated planning and preparedness activities to support business continuity and operational resiliency. We assess our program's effectiveness through a range of validation activities, which may include tabletop simulations, production environment tests, penetration and vulnerability tests, red team exercises, and other related activities. We conduct mandatory cybersecurity training, provide employees with tools to report suspected incidents and assess their own security posture, and conduct real-time simulated employee education exercises, such as phishing email campaigns designed to emulate real-world attacks. We also engage in robust cybersecurity assessments and remediation efforts for acquired companies. Our computing environments, products, and services are reviewed by our internal ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_192",
+  "ticker": "MSFT",
+  "text": "rsecurity assessments and remediation efforts for acquired companies. Our computing environments, products, and services are reviewed by our internal audit teams as well as independent third-party assessors. We are committed to managing the most significant risks to our strategies and ambitions, including cybersecurity risks. The Enterprise Risk Management (\u201cERM\u201d) organization supports management in this commitment by facilitating the semiannual risk assessment, which documents the priority and status of these risks and aligns them with our strategic mitigation efforts. ERM is structured using a framework based on the Committee of Sponsoring Organization guidelines that also aligns with the International Organization for Standardization 31000:2018 Risk Management Standard. We continuously monitor our computing environments, products, and services for vulnerabilities and signs of compromise, and we utilize our own security products, third-party security products, and leading artificial ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_197",
+  "ticker": "MSFT",
+  "text": " be necessary or advisable. Presentations to the Board of Directors are made by senior management, including our Chief Information Security Officer (\u201cCISO\u201d), our EVP of Microsoft Security, our EVP of Cloud + AI, and the head of our Customer Security and Trust organization. The presentations address topics such as cybersecurity threats, incidents, top risks and related remediation efforts, results from internal and third-party assessments, progress towards risk-mitigation goals, the functioning of our incident response program, regulatory developments, and digital diplomacy efforts. In addition, we have an escalation process in place to inform senior management and the Board of significant issues. Cybersecurity issues are also considered during separate Board meeting discussions regarding important matters like ERM, audit issues, operational budgeting, business continuity planning, mergers and acquisitions, brand management, and other relevant matters. Our CISO leads the strategy, engin",
+  "entities": [
+   {
+    "name": "EVP of Microsoft Security",
+    "type": "Person"
+   },
+   {
+    "name": "EVP of Cloud + AI",
+    "type": "Person"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_198",
+  "ticker": "MSFT",
+  "text": "al budgeting, business continuity planning, mergers and acquisitions, brand management, and other relevant matters. Our CISO leads the strategy, engineering, and operations of cybersecurity across the company, and reports to the EVP of Cloud + AI. Our CISO has extensive experience assessing and managing cybersecurity programs and cybersecurity risk. Before joining Microsoft, our CISO served in a prior Chief Technology Officer role as well as in senior leadership, engineering, and operational roles within multiple organizations. In addition to the Board\u2019s oversight of cybersecurity risk, to support the CISO, we have established a Cybersecurity Governance Council (\u201cCGC\u201d) charged with overseeing initiatives that safeguard Microsoft\u2019s computing environments, products, and services. The CGC is comprised of an executive-level team of Deputy CISOs with cybersecurity backgrounds and expertise relevant to their roles. The CGC\u2019s responsibilities include approving our enterprise security risk ass",
+  "entities": [
+   {
+    "name": "EVP of Cloud + AI",
+    "type": "Person"
+   },
+   {
+    "name": "Microsoft Corporation",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_205",
+  "ticker": "MSFT",
+  "text": "al year 2025 included: \u2022 Microsoft Cloud revenue increased 27% to $214.4 billion. \u2022 Commercial remaining performance obligation increased 84% to $678 billion. \u2022 Microsoft 365 Commercial cloud revenue increased 17%. \u2022 Microsoft 365 Consumer cloud revenue increased 28%. \u2022 LinkedIn revenue increased 11%. \u2022 Dynamics 365 revenue increased 18%. \u2022 Azure and other cloud services revenue increased 41%. \u2022 Windows OEM and Devices revenue decreased slightly. \u2022 XBOX content and services revenue decreased 5%. \u2022 Search advertising (formerly Search and news advertising) revenue excluding traffic acquisition costs increased 12%. Industry Trends and Opportunities Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we push the boundaries of what is possible through a broad range of",
+  "entities": [
+   {
+    "name": "Microsoft Corporation",
+    "type": "Company"
+   },
+   {
+    "name": "LinkedIn",
+    "type": "Company"
+   },
+   {
+    "name": "Dynamics 365",
+    "type": "Company"
+   },
+   {
+    "name": "Azure",
+    "type": "Company"
+   },
+   {
+    "name": "Windows",
+    "type": "Company"
+   },
+   {
+    "name": "XBOX",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_221",
+  "ticker": "MSFT",
+  "text": "ained elevated. \u2022 XBOX revenue decreased $1.7 billion or 7% driven by declines in XBOX content and services and XBOX hardware. XBOX content and services revenue decreased 5% on a prior year comparable that benefited from strong first-party content performance, offset in part by growth in XBOX Game Pass. XBOX hardware revenue decreased 29% driven by lower volume of consoles sold. \u2022 Search advertising revenue increased $1.3 billion or 9%. Search advertising revenue excluding traffic acquisition costs increased 12% driven by higher search volume and revenue per search, as well as benefit from third-party partnerships. 39 PART II Item 7 Operating income increased $220 million or 2%. \u2022 Cost of revenue decreased $1.8 billion or 7% driven by lower hardware sales. \u2022 Gross margin increased $1.2 billion or 4% driven by growth in Search advertising and Windows OEM. Gross margin percentage increased driven by sales mix shift to higher margin businesses. \u2022 Operating expenses increased $940 million ",
+  "entities": [
+   {
+    "name": "XBOX",
+    "type": "Company"
+   },
+   {
+    "name": "Search advertising",
+    "type": "Company"
+   },
+   {
+    "name": "Windows",
+    "type": "Company"
+   }
+  ],
+  "relations": [
+   {
+    "source": "XBOX",
+    "relation": "SUBSIDIARY_OF",
+    "target": "Windows"
+   }
+  ]
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_235",
+  "ticker": "MSFT",
+  "text": "to a $51.4 billion increase in additions to property and equipment and a $22.2 billion increase in cash used in other investing primarily to facilitate the purchase of components, offset in part by a $4.2 billion decrease in cash used in the acquisition of companies, net of cash acquired and divestitures, and purchases of intangible and other assets and a $2.4 billion decrease in cash used in net investment purchases, sales, and maturities. Debt Proceeds We issue debt to take advantage of favorable pricing and liquidity in the debt markets, reflecting our credit rating. The proceeds of these issuances were or will be used for general corporate purposes, which may include, among other things, funding for working capital, capital expenditures, repurchases of capital stock, acquisitions, and repayment of existing debt. Refer to Note 10 \u2013 Debt of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K). 43 PART II Item 7 Unearned Revenue Unearned revenue comprises mainly unear",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_239",
+  "ticker": "MSFT",
+  "text": "billion, respectively. We intend to continue returning capital to shareholders in the form of dividends, subject to declaration by our Board of Directors. Refer to Note 15 \u2013 Stockholders\u2019 Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K). Other Planned Uses of Capital We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology, as well as acquisitions that align with our business strategy. Additions to property and equipment will continue, including new facilities, datacenters, and computer systems for research and development, sales and marketing, support, and administrative staff. We will continue to invest in capital expenditures to support growth in our cloud offerings and our investments in AI training and other infrastructure. We have operating and finance leases for datacenters and related infrastructure, servers and network equipment, corporate offices, and research and development f",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_275",
+  "ticker": "MSFT",
+  "text": "am and certain partner sales incentive programs as we have determined annual compensation is commensurate with annual sales activities. Cost of Revenue Cost of revenue includes: costs incurred to support and maintain cloud-based and other online products and services, including datacenter costs and royalties; operating costs related to product support service centers and product distribution centers; manufacturing and distribution costs for products sold and programs licensed; traffic acquisition costs to drive traffic to our websites and to acquire online advertising space; and costs associated with the delivery of consulting services. Research and Development Research and development expenses include payroll, stock-based compensation expense, employee benefits, and other headcount-related expenses associated with product development. Research and development expenses also include technology development costs, including AI training and other infrastructure costs, third-party developme",
+  "entities": [
+   {
+    "name": "AI training",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_290",
+  "ticker": "MSFT",
+  "text": "ing basis. The fair values of these investments are determined based on valuation techniques using the best information available, and may include quoted market prices, market comparables, and discounted cash flow projections. Our other current financial assets and current financial liabilities have fair values that approximate their carrying values. Property and Equipment Property and equipment is stated at cost less accumulated depreciation and depreciated using the straight-line method over the shorter of the estimated useful life of the asset or the lease term. The estimated useful lives of our property and equipment are generally as follows: software developed or acquired for internal use, three years ; servers and network equipment, two to six years ; buildings and improvements, five to 15 years ; leasehold improvements, three to 15 years ; and furniture and equipment, one to 10 years . Land is not depreciated. Leases We determine if an arrangement is a lease at inception. Operat",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_304",
+  "ticker": "MSFT",
+  "text": "uilding improvements, and leasehold improvements, primarily related to datacenters. NOTE 7 \u2014 BUSINESS COMBINATIONS Activision Blizzard, Inc. On October 13, 2023 , we completed our acquisition of Activision Blizzard, Inc. (\u201cActivision Blizzard\u201d) for a total purchase price of $ 75.4 billion, consisting primarily of cash. Activision Blizzard is a leader in game development and an interactive entertainment content publisher. The acquisition will accelerate the growth in our gaming business across mobile, PC, console, and cloud gaming. The financial results of Activision Blizzard have been included in our consolidated financial statements since the date of the acquisition. Activision Blizzard is reported as part of our More Personal Computing segment. 69 PART II Item 8 The allocation of the purchase price to the assets acquired and liabilities assumed was completed as of September 30, 2024. The major classes of assets and liabilities to which we have allocated the purchase price were as fol",
+  "entities": [
+   {
+    "name": "Activision Blizzard, Inc.",
+    "type": "Company"
+   },
+   {
+    "name": "Activision Blizzard",
+    "type": "Person"
+   },
+   {
+    "name": "More Personal Computing",
+    "type": "Person"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_305",
+  "ticker": "MSFT",
+  "text": " assumed was completed as of September 30, 2024. The major classes of assets and liabilities to which we have allocated the purchase price were as follows: Goodwill was assigned to our More Personal Computing segment. The goodwill was primarily attributed to increased synergies that are expected to be achieved from the integration of Activision Blizzard. Substantially all of the goodwill is expected to be non-deductible for income tax purposes. Following are the details of the purchase price allocated to the intangible assets acquired: Following are the supplemental consolidated financial results of Microsoft Corporation on an unaudited pro forma basis, as if the acquisition had been consummated on July 1, 2022: These pro forma results were based on estimates and assumptions, which we believe are reasonable. They are not the results that would have been realized had we been a combined company during the periods presented and are not necessarily indicative of our consolidated results of",
+  "entities": [
+   {
+    "name": "Activision Blizzard",
+    "type": "Person"
+   },
+   {
+    "name": "More Personal Computing",
+    "type": "Company"
+   },
+   {
+    "name": "Microsoft Corporation",
+    "type": "Company"
+   }
+  ],
+  "relations": [
+   {
+    "source": "Microsoft Corporation",
+    "relation": "SUBSIDIARY_OF",
+    "target": "More Personal Computing"
+   }
+  ]
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_306",
+  "ticker": "MSFT",
+  "text": "would have been realized had we been a combined company during the periods presented and are not necessarily indicative of our consolidated results of operations in future periods. The pro forma results include adjustments related to purchase accounting, primarily amortization of intangible assets. Acquisition costs and other nonrecurring charges were immaterial and are included in the earliest period presented. NOTE 8 \u2014 GOODWILL Changes in the carrying amount of goodwill were as follows: 70 PART II Item 8 The measurement periods for the valuation of assets acquired and liabilities assumed end as soon as information on the facts and circumstances that existed as of the acquisition dates becomes available, but do not exceed 12 months. Adjustments in purchase price allocations may require a change in the amounts allocated to goodwill during the periods in which the adjustments are determined. Any change in the goodwill amounts resulting from foreign currency translations and purchase acc",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_308",
+  "ticker": "MSFT",
+  "text": ". NOTE 9 \u2014 INTANGIBLE ASSETS The components of intangible assets, all of which are finite-lived, were as follows: No material impairments of intangible assets were identified during fiscal years 2026, 2025, or 2024. We estimate that we have no significant residual value related to our intangible assets. The components of intangible assets acquired during the periods presented were as follows: Intangible assets amortization expense was $ 4.7 billion, $ 6.0 billion, and $ 4.8 billion for fiscal years 2026, 2025, and 2024, respectively. 71 PART II Item 8 The following table outlines the estimated future amortization expense related to intangible assets held as of June 30, 2026: NOTE 10 \u2014 DEBT The components of long-term debt were as follows: (a) Refer to Note 5 \u2013 Derivatives for further information on the interest rate swaps related to fixed-rate debt. As of June 30, 2026 and 2025, the estimated fair value of long-term debt, including the current portion, was $ 36.5 billion and $ 40.4 bil",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_327",
+  "ticker": "MSFT",
+  "text": "ough the ESPP. Savings Plans We have savings plans in the U.S. that qualify under Section 401(k) of the Internal Revenue Code, and a number of savings plans in international locations. Eligible U.S. employees may contribute a portion of their salary into the savings plans, subject to certain limitations. We match a portion of each dollar a participant contributes into the plans. Employer-funded retirement benefits for all plans were $ 1.8 billion, $ 1.8 billion, and $ 1.7 billion in fiscal years 2026, 2025, and 2024, respectively, and were expensed as contributed. 82 PART II Item 8 NOTE 18 \u2014 SEGMENT INFORMATION AND GEOGRAPHIC DATA In its operation of the business, management, including our chief operating decision maker (\u201cCODM\u201d), who is also our Chief Executive Officer , reviews certain financial information, including segmented internal profit and loss statements. The primary profitability measure used by the CODM to review segment operating results is operating income. The CODM uses ",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_346",
+  "ticker": "MSFT",
+  "text": "Seattle, Washington July 29, 2026 We have served as the Company's auditor since 1983. 88 PART II Item 9, 9A ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOU NTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE Not applicable. ITEM 9A. CONTROLS AND PROCEDURES Under the supervision and with the participation of our management, including the Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our disclosure controls and procedures as required by Exchange Act Rule 13a-15(b) as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that these disclosure controls and procedures are effective. REPORT OF MANAGEMENT ON INTERNAL C ONTROL OVER FINANCIAL REPORTING Our management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. Internal control over financial reporting is a process to provide reasonable assuranc",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_347",
+  "ticker": "MSFT",
+  "text": "quate internal control over financial reporting for the Company. Internal control over financial reporting is a process to provide reasonable assurance regarding the reliability of our financial reporting for external purposes in accordance with accounting principles generally accepted in the United States of America. Internal control over financial reporting includes maintaining records that in reasonable detail accurately and fairly reflect our transactions; providing reasonable assurance that transactions are recorded as necessary for preparation of our consolidated financial statements; providing reasonable assurance that receipts and expenditures of company assets are made in accordance with management authorization; and providing reasonable assurance that unauthorized acquisition, use, or disposition of company assets that could have a material effect on our consolidated financial statements would be prevented or detected on a timely basis. Because of its inherent limitations, in",
+  "entities": [],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_353",
+  "ticker": "MSFT",
+  "text": "y to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company\u2019s assets that could have a material effect on the financial statements. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. /s/ D ELOITTE & T OUCHE LLP Seattle, Washington July 29, 2026 90 PART II, III Item 9B, 9C, 10, 11 ITEM 9B. OTHER INFORMATION Insider Trading Arrangements Our Sect",
+  "entities": [
+   {
+    "name": "D ELOITTE & T OUCHE LLP",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_356",
+  "ticker": "MSFT",
+  "text": ". DIRECTORS, EXECUTIVE OFF ICERS, AND CORPORATE GOVERNANCE A list of our executive officers and biographical information appears in Part I, Item 1 of this Form 10-K. Information about our directors may be found under the caption \u201cOur Director Nominees\u201d in our Proxy Statement for the Annual Meeting of Shareholders to be held December 8, 2026 (the \u201cProxy Statement\u201d). Information about our Audit Committee may be found under the caption \u201cBoard Committees\u201d in the Proxy Statement. Information about our trading policies and procedures can be found under the caption \u201cInsider Trading Policies and Procedures\u201d in the Proxy Statement. That information is incorporated herein by reference. We have adopted the Microsoft Finance Code of Professional Conduct (the \u201cfinance code of ethics\u201d), a code of ethics that applies to our Chief Executive Officer, Chief Financial Officer, Chief Accounting Officer, and other finance organization employees. The finance code of ethics is publicly available on our websi",
+  "entities": [
+   {
+    "name": "Microsoft Corporation",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "MSFT_10-K_2026-07-29_357",
+  "ticker": "MSFT",
+  "text": "f Financial Officer, Chief Accounting Officer, and other finance organization employees. The finance code of ethics is publicly available on our website at https://aka.ms/FinanceCodeProfessionalConduct . If we make any substantive amendments to the finance code of ethics or grant any waiver, including any implicit waiver, from a provision of the code to our Chief Executive Officer, Chief Financial Officer, or Chief Accounting Officer, we will disclose the nature of the amendment or waiver on that website or in a report on Form 8-K. We will provide disclosure of delinquent Section 16(a) reports, if any, in our Proxy Statement under the caption \u201cDelinquent Section 16(a) Reports,\u201d and such disclosure, if any, is incorporated herein by reference. ITEM 11. EXECUTI VE COMPENSATION The information in the Proxy Statement set forth under the captions \u201cDirector Compensation,\u201d \u201cNamed Executive Officer Compensation,\u201d \u201cCompensation Committee Report,\u201d and, if required, \u201cCompensation Committee Interl",
+  "entities": [
+   {
+    "name": "Chief Executive Officer",
+    "type": "Person"
+   },
+   {
+    "name": "Chief Financial Officer",
+    "type": "Person"
+   },
+   {
+    "name": "Chief Accounting Officer",
+    "type": "Person"
+   },
+   {
+    "name": "Financial Officer",
+    "type": "Person"
+   }
+  ],
+  "relations": [
+   {
+    "source": "Chief Executive Officer",
+    "relation": "CEO_OF",
+    "target": "Microsoft Corporation"
+   },
+   {
+    "source": "Chief Financial Officer",
+    "relation": "CEO_OF",
+    "target": "Microsoft Corporation"
+   },
+   {
+    "source": "Chief Accounting Officer",
+    "relation": "CEO_OF",
+    "target": "Microsoft Corporation"
+   },
+   {
+    "source": "Financial Officer",
+    "relation": "CEO_OF",
+    "target": "Microsoft Corporation"
+   }
+  ]
+ },
+ {
+  "chunk_id": "TSLA_10-Q_2026-07-23_51",
+  "ticker": "TSLA",
+  "text": "per share of common stock attributable to common stockholders, because their effect was anti-dilutive (in millions): Restricted Cash Our total cash and cash equivalents and restricted cash, as presented in the consolidated statements of cash flows, was as follows (in millions): SpaceX Equity Investment We are presumed to have significant influence over our equity method investment in SpaceX under ASC 323, Equity Method Investments and Joint Ventures , as our CEO also serves as the CEO of SpaceX but as we do not have control over the investee, we have elected the fair value option in accordance with ASC 825, Financial Instruments, to provide a more relevant measure of the investment\u2019s current economic value to financial statement users. The fair value is determined on a quarterly basis in accordance with ASC 820, Fair Value Measurement , based on market observable inputs. The equity investment is presented within Other non-current assets on our consolidated balance sheet. Realized and u",
+  "entities": [
+   {
+    "name": "SpaceX",
+    "type": "Company"
+   }
+  ],
+  "relations": []
+ },
+ {
+  "chunk_id": "TSLA_10-Q_2026-07-23_64",
+  "ticker": "TSLA",
+  "text": "ierarchy requires the use of observable market data when available in determining fair value. Our assets and liabilities that were measured at fair value on a recurring basis were as follows (in millions): (1) The investment is classified as Level 2 within the fair value hierarchy based on observable market inputs used to estimate the $ 238 million discount for lack of marketability due to regulatory restrictions expiring in September 2026. For the three months ended June 30, 2026, we recorded a $ 1.00 billion net gain on our SpaceX equity investment. In addition, we are subject to customary sales restrictions in connection with the SpaceX initial public offering that expire in December 2026. (2) As of June 30, 2026 and December 31, 2025, the majority of our digital assets were comprised of 11,509 units of Bitcoin held at an acquisition cost of $ 386 million. Our cash, cash equivalents and short-term investments classified by security type as of June 30, 2026 and December 31, 2025 cons",
+  "entities": [
+   {
+    "name": "SpaceX",
+    "type": "Company"
+   },
+   {
+    "name": "Bitcoin",
+    "type": "Company"
+   }
+  ],
+  "relations": [
+   {
+    "source": "SpaceX",
+    "relation": "SUBSIDIARY_OF",
+    "target": "Tesla, Inc."
+   }
+  ]
+ },
+ {
+  "chunk_id": "TSLA_10-Q_2026-07-23_65",
+  "ticker": "TSLA",
+  "text": "ost of $ 386 million. Our cash, cash equivalents and short-term investments classified by security type as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): 16 Table of Contents As of June 30, 2026 and December 31, 2025, short-term investments held and restricted for our insurance business were $ 286 million and $ 254 million, respectively. As of June 30, 2026, the majority of our short-term investments had contractual maturity dates within one year. Disclosure of Fair Values Our financial instruments that are not re-measured at fair value include accounts receivable, financing receivables, other receivables, accounts payable, accrued liabilities, customer deposits and debt. The carrying values of these financial instruments materially approximate their fair values. Note 3 \u2013 Acquisition In the second quarter of 2026, Tesla acquired an AI hardware company in an asset acquisition for $ 1.95 billion in Tesla common stock and equity awards, of which $ 1.73 bi",
+  "entities": [
+   {
+    "name": "Tesla, Inc.",
+    "type": "Company"
+   },
+   {
+    "name": "AI hardware company",
+    "type": "Person"
+   }
+  ],
+  "relations": []
+ }
+]
